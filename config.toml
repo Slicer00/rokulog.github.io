@@ -14,8 +14,8 @@ paginate = 20
 
 # 自己紹介
 [Author]
-    name = "Author"
-    bio = "ここに自己紹介を入れることができます"
+    name = "ろくろー"
+    bio = "九州工業大学情報工学部1年生の者です。中学時代からプログラミングに非常に興味があり、この大学に入ってからは様々な言語を学んでいます。"
     avatar = "img/avatar.png"
 
 [Params]
@@ -32,8 +32,8 @@ paginate = 20
 
 # SNS等のユーザー名
 [Params.widgets.social]
-  twitter = "uvrub"
-  github = "kato-k"
+  twitter = "slicer0074"
+  github = "Slicer00"
 
 [Params.sidebar]
     home = "right"
@@ -41,3 +41,7 @@ paginate = 20
     single = "right"
     widgets = ["search", "recent", "categories", "taglist", "social"]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
