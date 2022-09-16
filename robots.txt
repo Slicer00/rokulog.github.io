@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://rokulog.github.io/sitemap.xml
+Sitemap: https://slicer00.github.io/rokulogsitemap.xml
